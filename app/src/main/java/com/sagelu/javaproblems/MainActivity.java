@@ -16,6 +16,7 @@ private String TAG ="maxMemory";
         Log.i(TAG,"maxMemory="+Long.toString(maxMemory/(1024*1024)));
         displayBriefMemory();
     }
+	
     /*
     08-14 16:16:20.216 5650-5650/? I/maxMemory: maxMemory=256
     08-14 16:16:20.216 5650-5650/? I/maxMemory: 系统剩余内存:937MB
